@@ -1,7 +1,7 @@
 # Hi there, I'm Sanka👋
 
 ## 💫 About Me
-Software Engineer  Web Development Enthusiast
+Software Engineer | Web Development Enthusiast
 
 Building creative online apps and researching cutting-edge technologies are two things that I’m interested about while I work toward my undergraduate degree in software engineering.
 
