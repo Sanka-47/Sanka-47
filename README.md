@@ -18,6 +18,7 @@ Building creative online apps and researching cutting-edge technologies are two 
 ## 🌱 Currently Learning
 - Advanced React Native techniques
 - Full-stack web development best practices
+- Building FullStack Apps Using Ai 
 
 ## 🤝 Let's Collaborate
 -Interesting web development projects and teamwork possibilities are always welcome. Feel free to reach out us!
