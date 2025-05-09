@@ -20,6 +20,7 @@ Building creative online apps and researching cutting-edge technologies are two 
 - Full-stack web development best practices
 - Building FullStack Apps Using Ai
 - Python
+- AWS Cloud Computing
 
 ## 🤝 Let's Collaborate
 -Interesting web development projects and teamwork possibilities are always welcome. Feel free to reach out us!
