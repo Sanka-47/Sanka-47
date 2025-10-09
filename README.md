@@ -7,6 +7,7 @@ Building creative online apps and researching cutting-edge technologies are two 
 
 ## 💻 Tech Stack
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -16,7 +17,8 @@ Building creative online apps and researching cutting-edge technologies are two 
 
 
 ## 🌱 Currently Learning
-- Advanced React Native techniques
+- Advanced React  techniques
+- Advance Flutter techniques
 - Full-stack web development best practices
 - Building FullStack Apps Using Ai
 - Python
