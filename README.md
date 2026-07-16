@@ -20,7 +20,7 @@ Building creative online apps and researching cutting-edge technologies are two 
 - Advanced React  techniques
 - Advance Flutter techniques
 - Full-stack web development best practices
-- Building FullStack Apps Using Ai
+- NestJs
 - Python
 - AWS Cloud Computing
 
