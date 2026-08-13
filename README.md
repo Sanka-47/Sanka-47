@@ -1,4 +1,4 @@
-# Hi there, I'm Sanka👋
+# Hi there, I'm Kalindu👋
 
 ## 💫 About Me
 Software Engineer | Web Development Enthusiast
